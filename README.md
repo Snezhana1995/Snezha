@@ -20,3 +20,5 @@
 Побеждает та армия, в которой остался хотя бы 1 живой воин
 
 Иерархия: ![Image alt](https://github.com/Snezhana1995/Snezha/blob/master/ierarhia.png)
+
+Армии выглядят следующим образом: ![Image alt](https://github.com/Snezhana1995/Snezha/blob/master/army.png)
