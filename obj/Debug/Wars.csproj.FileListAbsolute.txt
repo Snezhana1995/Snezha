@@ -1,0 +1,24 @@
+c:\users\s105user07\documents\visual studio 2015\Projects\Wars\Wars\bin\Debug\Wars.exe.config
+c:\users\s105user07\documents\visual studio 2015\Projects\Wars\Wars\bin\Debug\Wars.exe
+c:\users\s105user07\documents\visual studio 2015\Projects\Wars\Wars\bin\Debug\Wars.pdb
+c:\users\s105user07\documents\visual studio 2015\Projects\Wars\Wars\obj\Debug\Wars.csprojResolveAssemblyReference.cache
+c:\users\s105user07\documents\visual studio 2015\Projects\Wars\Wars\obj\Debug\Wars.exe
+c:\users\s105user07\documents\visual studio 2015\Projects\Wars\Wars\obj\Debug\Wars.pdb
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars\Wars\bin\Debug\Wars.exe.config
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars\Wars\obj\Debug\Wars.exe
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars\Wars\obj\Debug\Wars.pdb
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars\Wars\obj\Debug\Wars.csprojResolveAssemblyReference.cache
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars\Wars\bin\Debug\Wars.exe
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars\Wars\bin\Debug\Wars.pdb
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars_10\Wars\bin\Debug\Wars.exe.config
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars_10\Wars\obj\Debug\Wars.exe
+C:\Users\AndreyKoryakin\Documents\Visual Studio 2015\Projects\Wars_10\Wars\obj\Debug\Wars.pdb
+C:\Users\AndreyKoryakin\OneDrive\Projects\Wars_10\Wars\bin\Debug\Wars.exe.config
+C:\Users\AndreyKoryakin\OneDrive\Projects\Wars_10\Wars\obj\Debug\Wars.exe
+C:\Users\AndreyKoryakin\OneDrive\Projects\Wars_10\Wars\obj\Debug\Wars.pdb
+C:\Users\s105user10\Desktop\Wars_10\Wars\bin\Debug\Wars.exe.config
+C:\Users\s105user10\Desktop\Wars_10\Wars\obj\Debug\Wars.exe
+C:\Users\s105user10\Desktop\Wars_10\Wars\obj\Debug\Wars.pdb
+C:\Users\s105user10\Desktop\Wars_10\Wars\bin\Debug\Wars.exe
+C:\Users\s105user10\Desktop\Wars_10\Wars\bin\Debug\Wars.pdb
+C:\Users\s105user10\Desktop\Wars_10\Wars\obj\Debug\Wars.csprojResolveAssemblyReference.cache
