@@ -19,4 +19,4 @@
 
 Побеждает та армия, в которой остался хотя бы 1 живой воин
 
-Иерархия: ![Image alt](https://github.com/{Snezhana1995}/{Snezha}/raw/{master}/{path}/image.png)
+Иерархия: ![Image alt](https://github.com/Snezhana1995/Snezha/blob/master/ierarhia.png)
